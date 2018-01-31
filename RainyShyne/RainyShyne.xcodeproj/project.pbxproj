@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					84D6A4A12021E77F000AC20A = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 5J623Z67FU;
 						ProvisioningStyle = Automatic;
 					};
 					84D6A4B52021E780000AC20A = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5J623Z67FU;
 				INFOPLIST_FILE = RainyShyne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ronanthomsen.RainyShyne;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5J623Z67FU;
 				INFOPLIST_FILE = RainyShyne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ronanthomsen.RainyShyne;
